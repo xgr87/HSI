@@ -1,0 +1,16 @@
+einops==0.8.1
+joblib==1.4.2
+linformer==0.2.3
+matplotlib==3.10.1
+numpy==2.1.2
+opencv_python==4.11.0.86
+scikit_learn==1.6.1
+scipy==1.15.2
+seaborn==0.13.2
+spectral==0.23.1
+timm==1.0.15
+torch==2.6.0+cu126
+torchsummary==1.5.1
+torchvision==0.21.0+cu126
+tqdm==4.67.1
+visdom==0.2.4
